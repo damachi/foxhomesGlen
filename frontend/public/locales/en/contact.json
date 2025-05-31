@@ -1,0 +1,71 @@
+{
+  "title": "get in touch",
+  "description": "We are here to help you with any needs",
+  "personTitle": "mister",
+  "meeting": "Appointments",
+  "formular": "Registration form",
+  "form": {
+    "title": "contact us",
+    "firstName": {
+      "label": "firstname",
+      "placeholder": "Enter your firstname",
+      "errorsMessages": {
+        "required": "*Firstname field is required",
+        "minimum": "*Minimum 2 characters required",
+        "maximum": "*Maximum 30 characters required"
+      }
+    },
+    "lastName": {
+      "label": "lastname",
+      "placeholder": "Enter your lastname",
+      "errorsMessages": {
+        "required": "*Lastname field is required",
+        "minimum": "*Minimum 2 characters required",
+        "maximum": "*Maximum 30 characters required"
+      }
+    },
+    "email": {
+      "label": "email",
+      "placeholder": "Enter your email",
+      "errorsMessages": {
+        "required": "*The e-mail field is mandatory",
+        "minimum": "*Minimum 3 characters required",
+        "maximum": "*Maximum 50 characters required",
+        "pattern": "*Please enter a valid e-mail format"
+      }
+    },
+    "phone": {
+      "label": "phone",
+      "placeholder": "Enter the country following your phone",
+      "errorsMessages": {
+        "required": "*Phone number is required",
+        "validate": "*Invalid phone number"
+      }
+    },
+    "subject": {
+      "label": "subject",
+      "placeholder": "Select the raison for contacting",
+      "errorsMessages": {
+        "required": "*The subject field is mandatory ",
+        "minimum": "*Minimum 3 characters required",
+        "maximum": "*Maximum 50 characters required"
+      }
+    },
+    "message": {
+      "label": "message",
+      "placeholder": "Type your message here",
+      "errorsMessages": {
+        "required": "*The message field is mandatory ",
+        "minimum": "*Minimum 30 characters required",
+        "maximum": "*Maximum 5000 characters required"
+      }
+    }
+  },
+  "agentRole": "real estate advisor",
+  "office": "office address",
+  "phone": "phone number",
+  "email": "email",
+  "hour": "business hours",
+  "openingWeekday": "Monday to Friday: 9AM to 6PM",
+  "openingWeekend": "Saturday to Sunday : Office Closed"
+}

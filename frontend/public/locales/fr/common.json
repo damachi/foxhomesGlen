@@ -1,0 +1,71 @@
+{
+  "header": {
+    "mobile-menu": {
+      "favourite": "favori",
+      "Login": "connexion",
+      "card": {
+        "title": "déménager dans votre nouvel appartement",
+        "description": "nous offrons un service de déménagement avec notre troisième partenaire à un prix abordable.",
+        "button": "voir notre offre"
+      },
+      "office": "bureau",
+      "email": "email",
+      "phone": "telephone"
+    },
+    "menu": {
+      "home": "acceuil",
+      "sale": "à vendre",
+      "renting": "à louer",
+      "service": "service",
+      "guide": "guide",
+      "testimony": "témoignage",
+      "moving": "déménagement",
+      "contact": "contact",
+      "join": "rejoindre",
+      "subscribe": "s'abonner",
+      "en": "anglais",
+      "fr": "française"
+    }
+  },
+  "filter": {
+    "price": {
+      "placeholder": "gamme de prix",
+      "label": "prix en CHF"
+    },
+    "property": {
+      "placeholder": "type de bien",
+      "label": "type de bien disponible"
+    },
+    "bedroom": {
+      "placeholder": "pièce(s)",
+      "label": "nombre de pièce"
+    }
+  },
+  "footer": {
+    "title": "restez connecté avec nos informations sur l'immobilier",
+    "description": "Explorez nos annonces, abonnez-vous aux mises à jour et trouvez la maison de vos rêves dès aujourd'hui!",
+    "subscription": "s'abonner",
+    "contact": "contact",
+    "menu": {
+      "faq": "faq",
+      "privacy": "politique de confidentialité",
+      "terms": "conditions d'utilisation"
+    },
+    "copyright": "© 2024 Regieflorissante. Tous droits réservés."
+  },
+  "card": {
+    "badgeRenting": "à louer",
+    "badgeSale": "à vendre",
+    "address": "demander l'address",
+    "bedroom": "chbre",
+    "bath": "WC",
+    "surface": "surface",
+    "button": {
+      "renting": "louer maintenant",
+      "sale": "acheter maintenant"
+    }
+  },
+  "logo": {
+    "slogan": "un avenir florissant"
+  }
+}

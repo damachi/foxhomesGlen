@@ -1,0 +1,24 @@
+{
+  "title": "Le tableau de bord",
+  "stats": {
+    "range": "auparavant",
+    "unit": "jours",
+    "today": "aujourd'hui",
+    "property": {
+      "title": "total des nouveaux biens"
+    },
+    "user": {
+      "title": "total des nouveaux utilisateurs"
+    },
+    "contact": {
+      "title": "total des contacts des clients"
+    },
+    "inquiry": {
+      "title": "total des demandes en suspens"
+    },
+    "appointment": {
+      "title": "total des rendez-vous"
+    }
+  },
+  "propertyCardTitle": "recent properties"
+}

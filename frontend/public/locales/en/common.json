@@ -1,0 +1,71 @@
+{
+  "header": {
+    "mobile-menu": {
+      "favourite": "favourite",
+      "Login": "Login",
+      "card": {
+        "title": "Moving to your new apartment",
+        "description": "We offer moving service with our third partner at an affordable price.",
+        "button": "see our offer"
+      },
+      "office": "office",
+      "email": "email",
+      "phone": "phone"
+    },
+    "menu": {
+      "home": "home",
+      "sale": "for sale",
+      "renting": "for renting",
+      "service": "service",
+      "guide": "guide",
+      "testimony": "testimony",
+      "moving": "moving",
+      "contact": "contact us",
+      "join": "join",
+      "subscribe": "subscribe",
+      "en": "english",
+      "fr": "french"
+    }
+  },
+  "filter": {
+    "price": {
+      "placeholder": "price range",
+      "label": "price range in CHF"
+    },
+    "property": {
+      "placeholder": "property type",
+      "label": "available type"
+    },
+    "bedroom": {
+      "placeholder": "bedroom & bathroom",
+      "label": "bedroom and bathroom"
+    }
+  },
+  "footer": {
+    "title": "Stay Connected with Our Real Estate Insights",
+    "description": "Explore our listings, subscribe for updates, and find your dream home today!",
+    "subscription": "subscribe",
+    "contact": "contact",
+    "menu": {
+      "faq": "FAQs",
+      "privacy": "privacy policy",
+      "terms": "terms of service"
+    },
+    "copyright": "© 2024 FoxHome. All rights reserved."
+  },
+  "card": {
+    "badgeRenting": "for renting",
+    "badgeSale": "for sale",
+    "address": "request for address",
+    "bedroom": "beds",
+    "bath": "baths",
+    "surface": "sqft",
+    "button": {
+      "renting": "rent now",
+      "sale": "buy now"
+    }
+  },
+  "logo": {
+    "slogan": "a flourishing future"
+  }
+}

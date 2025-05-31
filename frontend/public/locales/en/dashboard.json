@@ -1,0 +1,24 @@
+{
+  "title": "Dashboard",
+  "stats": {
+    "range": "ago",
+    "unit": "days",
+    "today": "today",
+    "property": {
+      "title": "total new properties"
+    },
+    "user": {
+      "title": "total new users"
+    },
+    "contact": {
+      "title": "total customer contacts"
+    },
+    "inquiry": {
+      "title": "total pending inquiries"
+    },
+    "appointment": {
+      "title": "total appointments"
+    }
+  },
+  "propertyCardTitle": "recent properties"
+}

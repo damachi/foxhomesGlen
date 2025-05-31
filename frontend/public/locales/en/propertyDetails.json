@@ -1,0 +1,21 @@
+{
+  "agent": "real estate advisor",
+  "button": "send a message",
+  "message": "Please do not hesitate to contact us with any queries you may have. We will be delighted to answer you as soon as possible.",
+  "features": {
+    "propertyType": "type",
+    "floor": "floor",
+    "reference": "reference",
+    "yearBuilt": "year built",
+    "bedrooms": "bedrooms",
+    "bathrooms": "bathrooms",
+    "squareMeter": "square meter",
+    "availableDate": "available date"
+  },
+  "characteristic": "characteristic",
+  "description": "description",
+  "address": "address",
+  "cart": "on the map",
+  "similar": "similar properties",
+  "notFound": "We couldn't find any similar matching property"
+}

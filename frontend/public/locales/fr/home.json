@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "title": "trouvez la maison de vos rêves",
+    "description": "Découvrez la propriété parfaite qui correspond à votre style de vie.",
+    "renting": "à louer",
+    "sale": "à vendre"
+  },
+  "property": "biens",
+  "title": "nos dernières annonces",
+  "announcement": "Découvrez nos dernières propriétés récemment ajoutées",
+  "feature": {
+    "title": "débloquer facilement la maison de vos rêves",
+    "badge": "service illimité",
+    "description": "Notre plateforme offre une vaste sélection de biens immobiliers adaptés à vos besoins. Découvrez la commodité de trouver la maison idéale sans les tracas.",
+    "property": {
+      "title": "Accéder à tout moment à une liste exhaustive de biens immobiliers",
+      "description": "Parcourez des centaines d'annonces pour trouver le bien idéal."
+    },
+    "agent": {
+      "title": "Travailler avec des agents experts pour obtenir des conseils",
+      "description": "Nos agents compétents sont là pour vous aider."
+    },
+    "service": {
+      "title": "Profitez dès aujourd'hui d'un processus d'achat et de location sans faille",
+      "description": "Une transaction en douceur du début à la fin."
+    },
+    "button": "découvrir",
+    "contact": "contact"
+  },
+  "newsletter": {
+    "badge": "nouvelle",
+    "title": "restez informé grâce à notre lettre d'information",
+    "description": "Recevez directement les dernières annonces immobilières et les mises à jour.",
+    "button": "s'inscrire",
+    "input": {
+      "name": "email",
+      "placeholder": "enter votre email"
+    },
+    "success": "L'inscription à la lettre d'information est terminée",
+    "validation": {
+      "required": "Le champ email est obligatoire ",
+      "invalid_email": "Veuillez fournir un format d'email valide",
+      "maxlength": "La longueur du champ email doit être de 200 caractères"
+    },
+    "legal": "En cliquant sur 'S'inscrire', vous acceptez nos conditions générales."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "agent": "conseiller immobilier",
+  "button": "envoyer un message",
+  "message": "N'hésitez pas à nous contacter pour toute question. Nous nous ferons un plaisir de vous répondre dans les meilleurs délais.",
+  "features": {
+    "propertyType": "type de bien",
+    "floor": "étage",
+    "reference": "référence",
+    "yearBuilt": "année de construction",
+    "bedrooms": "chambres",
+    "bathrooms": "salles de bains",
+    "squareMeter": "mètre carré",
+    "availableDate": "date disponible"
+  },
+  "characteristic": "caractéristique",
+  "description": "description",
+  "address": "adresse",
+  "cart": "sur la carte",
+  "similar": "biens similaires",
+  "notFound": "Nous n'avons pas trouvé de biens similaires"
+}

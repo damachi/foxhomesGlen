@@ -1,0 +1,14 @@
+.PhoneInputInput {
+  background: #f1f1f1;
+  height: 100%;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.PhoneInputInput::placeholder {
+  color: gray;
+}

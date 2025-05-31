@@ -1,0 +1,11 @@
+{
+  "badge": "properties",
+  "sale": {
+    "title": "Exclusive new properties on sale",
+    "announcement": "Browser and filter our new properties on sale"
+  },
+  "renting": {
+    "title": "Exclusive new properties for renting",
+    "announcement": "Browser and filter our new properties for renting"
+  }
+}

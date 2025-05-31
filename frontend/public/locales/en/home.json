@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "title": "search your dream home",
+    "description": "Discover the perfect property that matches your lifestyle.",
+    "renting": "renting",
+    "sale": "sale"
+  },
+  "property": "properties",
+  "title": "our latest listings",
+  "announcement": "discover our latest properties recently added",
+  "feature": {
+    "title": "unlock your dream home with ease",
+    "badge": "unlimited service",
+    "description": "Our platform offers a vast selection of properties tailored to your needs. Experience the convenience of finding your perfect home without the hassle",
+    "property": {
+      "title": "Access Extensive Property Listings Anytime",
+      "description": " Browse hundreds of listings to find your ideal property."
+    },
+    "agent": {
+      "title": "Work with Expert Agents for Guidance",
+      "description": "Our knowledgeable agents are here to assist you."
+    },
+    "service": {
+      "title": "Enjoy a Seamless Buying and Renting Process Today",
+      "description": "Experience a smooth transaction from start to finish."
+    },
+    "button": "explore",
+    "contact": "contact"
+  },
+  "newsletter": {
+    "badge": "news",
+    "title": "stay informed with our newsletter",
+    "description": "Receive the latest real estate listings and updates directly.",
+    "button": "sign up",
+    "input": {
+      "name": "email",
+      "placeholder": "enter your email"
+    },
+    "success": "Newsletter subscription has been completed",
+    "validation": {
+      "required": "Email field is required",
+      "invalid_email": "Please provide a valid email format",
+      "maxlength": "Email field length must be 200 characters"
+    },
+    "legal": "By clicking on 'Sign Up', you accept our terms and conditions"
+  }
+}
